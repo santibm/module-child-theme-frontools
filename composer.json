@@ -2,7 +2,6 @@
   "name": "redegal/module-child-theme-frontools",
   "description": "Redegal Alpaca child theme",
   "type": "magento2-component",
-  "version": "1.0.0",
   "require": {
     "snowdog/frontools": "^1.8.0"
   },
