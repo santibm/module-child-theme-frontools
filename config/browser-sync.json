@@ -1,0 +1,20 @@
+[
+  {
+    "proxy": "magento2.test",
+    "rewriteRules": [
+      {
+        "match": ".magento2.test",
+        "replace": ""
+      }
+    ]
+  },
+  {
+    "proxy": "b2b.magento2.test",
+    "rewriteRules": [
+      {
+        "match": ".b2b.magento2.test",
+        "replace": ""
+      }
+    ]
+  }
+]
